@@ -58,9 +58,6 @@ If you’d like to contribute:
 3. Commit your changes.
 4. Push to the branch and create a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any inquiries or suggestions, feel free to reach out:
 - GitHub: [Gnaneshwari28](https://github.com/Gnaneshwari28)
